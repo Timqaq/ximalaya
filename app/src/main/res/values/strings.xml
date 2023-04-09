@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ximalaya</string>
+    <string name="submit_button_text">提交</string>
+    <string name="email_phone_hint">请输入您的电子邮件或手机号</string>
+    <string name="forget_password_title">忘记密码</string>
+    <string name="register_title">注册</string>
+    <string name="email_hint">请输入邮箱号</string>
+    <string name="password_hint">请输入密码</string>
+</resources>
